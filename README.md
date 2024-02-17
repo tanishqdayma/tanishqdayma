@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🚀 I'm Tanishq, a passionate data engineer with over 2 years of experience crafting large-scale data solutions in a dynamic client-facing environment.
+
+📚 Currently pursuing my Master's in Management Information Systems at Texas A&M University, College Station, with a focus on Data Engineering, Data Analysis, and Technical Product Management.
+
+💻 Armed with an undergraduate degree in Computer Science Engineering (CSE) and hands-on expertise in data visualization, data structures, cloud computing, Python programming, and SQL database management.
+
+🔍 Eager to dive into exciting opportunities that promise a learning adventure.
+
+📧 Feel free to reach me at tanishqdayma@gmail.com and explore my project portfolio on GitHub: [tanishqdayma](https://github.com/tanishqdayma).
+
+😄 Pronouns: she/her
+
+⚡ Fun fact: I am a foosball champion
+
+**Data enthusiast | Learner | Explorer**
