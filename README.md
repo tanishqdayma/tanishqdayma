@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀 I'm Tanishq, a passionate data professional with a track record of architecting efficient large-scale data solutions and crafting insights in a dynamic client-facing environment.
+🚀 I'm Tanishq, a passionate data enthusiast with a track record of architecting efficient large-scale data solutions and crafting insights in a dynamic client-facing environment.
 
 📚 Currently pursuing my Master's in Management Information Systems at Texas A&M University, College Station, with a focus on Data Engineering, Data Analysis, and Technical Product Management.
 
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: I am a foosball champion
 
-**Data enthusiast | Learner | Explorer**
+**Learner | Explorer**
