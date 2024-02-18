@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 😄 Pronouns: she/her
 
-⚡ Fun fact: I am a foosball champion
+⚡ Fun fact: When I'm not working, I'm strategizing my next move on the foosball table!
 
 **Learner | Explorer**
