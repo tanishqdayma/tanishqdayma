@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🚀 I'm Tanishq, a passionate data enthusiast with a track record of architecting efficient large-scale data solutions and crafting insights in a dynamic client-facing environment.
 
-📚 Currently pursuing my Master's in Management Information Systems at Texas A&M University, College Station, with a focus on Data Engineering, Data Analysis, and Technical Product Management.
+📚  Data & Analytics Engineer at Texas A&M Transportation Institute | MIS Graduate from Texas A&M University | Experienced in Data Engineering, Data Analysis, and Technical Product Management.
 
 💻 Armed with an undergraduate degree in Computer Science Engineering (CSE) and hands-on expertise in data visualization, data structures, cloud computing, Python programming, and SQL database management.
 
